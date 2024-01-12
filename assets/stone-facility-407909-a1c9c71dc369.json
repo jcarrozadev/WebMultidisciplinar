@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stone-facility-407909",
+  "private_key_id": "a1c9c71dc3695b01edadc6ba3665f44c8c8787e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4mCM3kxvFsnbn\ngulyk7e9ITQQdZ2dP1K2mHbOVJLotFj6FVJ4fB/HFDUPq2cEn1CseBeyhYjsu77O\ndx3MOIghRo5ijmWvs/BfB/3xvFmasxiS/RqGiyZ8s8GdLtEKq2daTq1ZZ4cAS8AH\nkZsq8YXzLUL+eaJfZnoBTLswE6wNE/7anaMw7uzjDv2CDXW480r5aWbzLZ+HkJRx\n514iHtC3Y3IWX020v+7aTXX26GGyJcdXyDb0KeeN4Hinh9Mdklqqm9NcbZw5/xYz\nI9v3bRtzYf3SJlfVt+5GCt4OOCaXeMtcEj1r2rFvlI1ptQr6Fzu+V3WqQaBLqgcw\nK2fm+6YLAgMBAAECggEAEG05dRCaQBWJj0CPFasfhq0VvQE6bWvdKHKY3/OWvy6N\nXHPZSu+AxG5/6k0OddLXkwF82l4XuTlb2XOwKyQ8uPlWYl7ZnbEditdjOcfREXsu\njKYJXj+zxRUZ/arU32YxZE/sDTCxSs1y4TmL3V5w1RsKAys/z82GvebeIYEepmsi\nRIL2EIsCg8HQwr7p5pIMDqd6mPt+M7iNrjcQZRb6fCePookxvhfS4MxBz4e6m9nj\nxgrIJFlcb4WC6BNmIdKw0oyMni45csvi9CfkjnvZ+ZtykC64PTNHdoFk1rLm4lj/\nfSMIR4/svP/Tf/YZtiju3+v7BJ/OpW9FaN9nHv0PAQKBgQDtLyuvT0q4Y3ME8nmp\ntA9lWrHLKOSi+jyUTOB5lQ01rRgXULkt+hvd/cR7lMmA6iXT1Hi5UTwtgqf5EICV\nl/fYDd+hepGaNpS1xww7goJ7s4HoTWgNJ0vc/DVuhv/OphbB3Floj20/JN4CYfHl\n3iFuCfb0Kz5CzQlZNji+llA/MQKBgQDHPPMRk6Kqi1vcRHEtwPEgO+JlVtXXAwX6\n7mNPeW5VBUnImE/mhTHk8D0C/wYz2bY5C/o8tXl000zCatsSc06Kz2scsUYTht5c\nNNWTiOpAsfEbrh/luYFIsb3CwB7Qg3kiKZNewWD3hM5mhLUGXuqyRrAXat9nGOGF\nPBtlnFaB+wKBgFhUw+kjF4m6B8Dk6Khp1X4Cm8o0bYnAtcTpKIQ/HU9LKnisaHqV\n9cDj3EPF8pFfIj1UmK0zcrzkNthL7AdKNFQzPoCt3AHZp+JWwdh7z0pwXMX95e1Y\nICmph+CkyCnWswz5mhaVq7LjcQbkISlhY4POlDj0zdgk8gFWbyWTZ0lRAoGAASJK\nq93wPhI++pj1H/KKLMnKdxMwcmHVBeGXdRtW0msOSXL8eW5mo0vuvPagnWjuzZJQ\n4UmTIGQXer/K8Wbwmn+lt2sW4AOTfmjaklVkJ+wbWDH8gn00zCoez13yjvNAnD4q\nVY66M45w8kptEVU29r7KP8fe76JHnk+CRGjIYUMCgYAPCF5SiXNlwMQKl+eG5esO\nYt0Npq//FD3u0pfkxLP34Nja02QFCUqocu0meZws23QNQA7/DNtHfnlKept6ocz6\npz7DZjG5KqnkRb33y5OvzIEGWMPlnrmommUwsOs0ly+nIHbv53/xZdOLDvj0upc1\nE3JNytLaAV+HzoWGtDeJKg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation@stone-facility-407909.iam.gserviceaccount.com",
+  "client_id": "107828167228890945873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation%40stone-facility-407909.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

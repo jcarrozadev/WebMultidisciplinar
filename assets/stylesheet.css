@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,500;1,600;1,800;1,900&display=swap');
+
+html {
+    background-image: url('imagenes/fondo2.jpg');
+    background-size: 100%;
+}
+
+body {
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(0, 0, 0, 0.844);
+    border: 1px solid rgba(0, 0, 0, 0.844);
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 0;
+}
+
+.tituloprincipal {
+    color: rgb(65, 170, 255);
+    text-shadow: 0 0 13px rgb(0,140,255);
+}
+
+/******************** BOTONES ************************/
+
+.boton1 {
+    margin-top: 0;
+    margin-left: 40%;
+}
+
+.boton1 a button img {
+    padding-top: 4px;
+}
+
+.botontraducir {
+    background: rgb(0,140,255);
+    box-shadow: 0 0 13px rgb(0,140,255);
+    padding: 10px 20px;
+    border: none;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    color: #fff;
+    border-radius: 15px;
+    font-family: Poppins;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+}
+
+.botontraducir:hover {
+    -webkit-box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+    -moz-box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+    box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+}
+
+/******************** FIN BOTONES ************************/
+
+hr {
+    margin-bottom: 4%;
+}
+
+/************************* NAVBAR ******************************/
+
+header {
+    background: rgba(0, 0, 0, 0);
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+  
+nav ul {
+    list-style: none;
+    overflow: hidden; 
+    padding: 5%;
+}
+  
+nav ul li {
+    float: left;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+nav ul li a {
+    font-weight: 500;
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    transition: 0.5s;
+}
+
+nav ul li a.active {
+    background-color: rgb(0,140,255);
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+    -moz-box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+    box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+}
+
+nav ul li a.active:hover {
+    -webkit-box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+    -moz-box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+    box-shadow: 0px 0px 20px 2px rgb(0,140,255);
+}
+  
+.navbar a:hover:not(.active) {
+    -webkit-box-shadow: 0px 0px 13px 2px #555;
+    -moz-box-shadow: 0px 0px 13px 2px #555;
+    box-shadow: 0px 0px 13px 2px #555;
+    background-color: #555;
+    border-radius: 10px;
+}
+
+/****************************** FIN NAVBAR *************************/
+
+#manual{
+    padding: 3% 20% 5% 20%;
+    border-spacing: 5px 1rem;
+    border-collapse: separate;
+    table-layout: fixed; 
+    width: 100%; 
+}
+
+#manual tr {
+    background-color: #ffffff;
+}
+
+#manual tr td{
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: #494949;
+    box-shadow: 1px 1px 9px 1px rgba(0, 0, 0, 0.2);
+    width:25%;
+}
+
+.contenido {
+    padding: 1%;
+    margin-bottom: 4%;
+    background-color: rgb(0,140,255);
+    border-radius: 10px;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+    -moz-box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+    box-shadow: 0px 0px 13px 2px rgb(0,140,255);
+}
+
+div:hover {
+    transition: 0.5s;
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.15);
+}
+
+.contenido :hover {
+    transition: 0.5s;
+}
+
+#imgcolegios {
+    padding: 3%;
+    padding-top: 4%;
+    float: left;
+}
+
+#vs {
+    margin: 0 auto;
+    font-size: xxx-large;
+    font-weight: 600;
+    color: rgb(0,140,255);
+}
+
+/****************************** FOOTER ****************************/
+
+footer {
+    padding: 3%;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(28, 28, 28);
+    border-radius: 10px;
+    box-shadow: 0 0 13px rgb(68, 68, 68);;
+    color: white;
+    text-align: center;
+}
+
+footer:hover {
+    transition: 0.5s;
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.05);
+}
+
+/**************************** FIN FOOTER **************************/
